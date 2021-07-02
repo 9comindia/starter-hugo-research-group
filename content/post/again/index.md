@@ -1,7 +1,10 @@
 ---
 title: again
 date: 2021-07-02T05:01:02.159Z
-summary: bbbbbbb
+summary: |-
+  bbbbbbb
+
+  ![](pass.jpg)
 draft: false
 featured: false
 image:
