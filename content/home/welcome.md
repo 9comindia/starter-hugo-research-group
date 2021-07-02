@@ -2,7 +2,7 @@
 advanced:
   ? css_style
   ? css_class
-widget: slider
+widget: hero
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
